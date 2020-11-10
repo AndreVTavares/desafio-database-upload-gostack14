@@ -2,7 +2,7 @@ import { getCustomRepository, getRepository, In } from 'typeorm';
 import fs from 'fs';
 import csvParse from 'csv-parse';
 
-import AppError from '../errors/AppError';
+// import AppError from '../errors/AppError';
 
 import TransactionsRepository from '../repositories/TransactionsRepository';
 
